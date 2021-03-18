@@ -1,0 +1,15 @@
+C:\Users\52492\Documents\Software\POO\JEAG_20210317\JEAG_20210317\bin\Debug\JEAG_20210317.exe.config
+C:\Users\52492\Documents\Software\POO\JEAG_20210317\JEAG_20210317\bin\Debug\JEAG_20210317.exe
+C:\Users\52492\Documents\Software\POO\JEAG_20210317\JEAG_20210317\bin\Debug\JEAG_20210317.pdb
+C:\Users\52492\Documents\Software\POO\JEAG_20210317\JEAG_20210317\obj\Debug\JEAG_20210317.csprojAssemblyReference.cache
+C:\Users\52492\Documents\Software\POO\JEAG_20210317\JEAG_20210317\obj\Debug\MainWindow.g.cs
+C:\Users\52492\Documents\Software\POO\JEAG_20210317\JEAG_20210317\obj\Debug\App.g.cs
+C:\Users\52492\Documents\Software\POO\JEAG_20210317\JEAG_20210317\obj\Debug\JEAG_20210317_MarkupCompile.cache
+C:\Users\52492\Documents\Software\POO\JEAG_20210317\JEAG_20210317\obj\Debug\JEAG_20210317_MarkupCompile.lref
+C:\Users\52492\Documents\Software\POO\JEAG_20210317\JEAG_20210317\obj\Debug\MainWindow.baml
+C:\Users\52492\Documents\Software\POO\JEAG_20210317\JEAG_20210317\obj\Debug\JEAG_20210317.g.resources
+C:\Users\52492\Documents\Software\POO\JEAG_20210317\JEAG_20210317\obj\Debug\JEAG_20210317.Properties.Resources.resources
+C:\Users\52492\Documents\Software\POO\JEAG_20210317\JEAG_20210317\obj\Debug\JEAG_20210317.csproj.GenerateResource.cache
+C:\Users\52492\Documents\Software\POO\JEAG_20210317\JEAG_20210317\obj\Debug\JEAG_20210317.csproj.CoreCompileInputs.cache
+C:\Users\52492\Documents\Software\POO\JEAG_20210317\JEAG_20210317\obj\Debug\JEAG_20210317.exe
+C:\Users\52492\Documents\Software\POO\JEAG_20210317\JEAG_20210317\obj\Debug\JEAG_20210317.pdb

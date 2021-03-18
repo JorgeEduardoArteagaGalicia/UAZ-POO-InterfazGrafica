@@ -1,0 +1,31 @@
+﻿<Window x:Class="JEAG_20210317.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JEAG_20210317"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Rectangle Fill="#FFCC99CD" HorizontalAlignment="Left" Height="72" Stroke="Black" VerticalAlignment="Top" Width="794" Margin="0,0,-0.4,0"/>
+        <Rectangle Fill="#FFE46A00" HorizontalAlignment="Left" Height="77" Margin="0,343,-0.4,0" Stroke="Black" VerticalAlignment="Top" Width="794"/>
+        <Rectangle Fill="#FFFABD76" HorizontalAlignment="Left" Height="214" Margin="0,129,0,0" Stroke="Black" VerticalAlignment="Top" Width="152"/>
+        <Rectangle Fill="#FF62C876" HorizontalAlignment="Left" Height="214" Margin="634,129,-0.4,0" Stroke="Black" VerticalAlignment="Top" Width="160"/>
+        <Rectangle Fill="#FF4094D0" HorizontalAlignment="Left" Height="214" Margin="152,129,0,0" Stroke="Black" VerticalAlignment="Top" Width="482"/>
+        <Label Content="En la parte superior" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="En la parte central" HorizontalAlignment="Left" Margin="291,170,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label Content="En la parte derecha" HorizontalAlignment="Left" Margin="638,170,0,0" VerticalAlignment="Top" FontSize="16" RenderTransformOrigin="-0.016,0.392"/>
+        <Label Content="En la parte izquierda" HorizontalAlignment="Left" Margin="10,170,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label Content="En la parte inferior" HorizontalAlignment="Left" Margin="317,356,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label Content="Apellidos" HorizontalAlignment="Left" Margin="466,18,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="549,22,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="248,22,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="162,18,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Rectangle Fill="#FF79FF9D" HorizontalAlignment="Left" Height="59" Margin="0,70,-0.4,0" Stroke="Black" VerticalAlignment="Top" Width="794"/>
+        <Label Content="Edad" HorizontalAlignment="Left" Margin="162,84,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Label Content="Años trabajados" HorizontalAlignment="Left" Margin="446,84,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="224,91,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="591,91,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
